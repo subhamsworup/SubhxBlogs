@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "290212543279",
+    "project_id": "subhxblogs",
+    "storage_bucket": "subhxblogs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290212543279:android:4375b51d8e4a2652ce7fda",
+        "android_client_info": {
+          "package_name": "com.app.subhxblogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290212543279-405fh65vst797oq2qgu5fglrv07q45n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.subhxblogs",
+            "certificate_hash": "ca3d4d6f81d113e861faa9f2639f180db3a73403"
+          }
+        },
+        {
+          "client_id": "290212543279-ssd7k73vdh6bhnru62bpg86s6ojnosj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU_nzGuPlZbPGzoyjJUan6jD7irheGoQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290212543279-ssd7k73vdh6bhnru62bpg86s6ojnosj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
